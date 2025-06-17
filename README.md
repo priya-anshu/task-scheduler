@@ -205,5 +205,5 @@ Contributions are welcome!
 
 ### 📄 License
 
-MIT License © \PRIYANSHU DHYANI
+MIT License © PRIYANSHU DHYANI
 Feel free to adapt and redistribute per the MIT terms.
